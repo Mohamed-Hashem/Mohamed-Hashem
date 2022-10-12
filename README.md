@@ -3,7 +3,9 @@
 </div>
 </br>
 </br>
-<h2>Hey there! I'm  <a href="https://www.linkedin.com/in/mohamedhashem/">Mohamed Hashem</a>
+<h2>Hey there! I'm  <b>Mohamed Hashem</b>  
+<a href="https://www.linkedin.com/in/mohamedhashem/"><img src="https://img.shields.io/badge/-Mohamed%20Hashem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/software_engineering_mh"><img src="https://img.shields.io/badge/-Software%20Engineering-09c?style=flat&logo=telegram"/></a>
 </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
