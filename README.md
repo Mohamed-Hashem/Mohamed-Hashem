@@ -1,4 +1,5 @@
-<div style="text-align:center"><img src="./Mohamed-Hashem.jpg" width="500" height="500">
+<div style="text-align:center;margin:auto">
+  <img  src="./Mohamed-Hashem.jpg" width="100%" height="700" >
 </div>
 </br>
 </br>
