@@ -59,12 +59,12 @@
 
 <div align="center">
 
-|        Year        |                                                   Company                                                    |             Role             |     Location      |                 Highlights                 |
-| :----------------: | :----------------------------------------------------------------------------------------------------------: | :--------------------------: | :---------------: | :----------------------------------------: |
-| **2024 - Present** |          <img src="https://img.shields.io/badge/-Naseej-FF6B35?style=flat-square&logoColor=white"/>          | **Senior Frontend Engineer** |  🇸🇦 Saudi Arabia  | `AI Agent Platform` `Enterprise Solutions` |
-|  **2022 - 2024**   | <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> |    **Software Engineer**     | 🇪🇬 Cairo → 🇺🇸 USA |   `Bing Core UX` `20M+ Users` `🏆 Award`   |
-|  **2021 - 2022**   |     <img src="https://img.shields.io/badge/-Acute%20Business-00C853?style=flat-square&logoColor=white"/>     |   **Full Stack Developer**   |     🇪🇬 Egypt      |        `React` `Node.js` `ASP.NET`         |
-|      **2020**      |      <img src="https://img.shields.io/badge/-Route%20Mobile-4285F4?style=flat-square&logoColor=white"/>      |    **Frontend Developer**    |     🇪🇬 Egypt      |    `React.js` `JavaScript` `REST APIs`     |
+|        Year        |                                                   Company                                                    |             Role             |         Location         |                     Highlights                     |
+| :----------------: | :----------------------------------------------------------------------------------------------------------: | :--------------------------: | :----------------------: | :------------------------------------------------: |
+| **2024 - Present** |          <img src="https://img.shields.io/badge/-Naseej-FF6B35?style=flat-square&logoColor=white"/>          | **Senior Frontend Engineer** | Saudi Arabia 🌍 (Remote) | `AI Agent Platform` `Enterprise` `Team Leadership` |
+|  **2022 - 2024**   | <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> |    **Software Engineer**     |    Cairo, EG → USA ✈️    |   `Bing Core UX` `20M+ Users` `🏆 Award Winner`    |
+|  **2021 - 2022**   |     <img src="https://img.shields.io/badge/-Acute%20Business-00C853?style=flat-square&logoColor=white"/>     |    **Frontend Developer**    |        Cairo, EG         |                 `React` `Node.js`                  |
+|      **2020**      |          <img src="https://img.shields.io/badge/-Route-4285F4?style=flat-square&logoColor=white"/>           |   **Full Stack Developer**   |        Cairo, EG         |      `React.js` `.NET` `Node.js` `REST APIs`       |
 
 </div>
 
@@ -97,7 +97,7 @@
 <summary><b>🏢 Naseej — Senior Frontend Engineer</b> <code>Dec 2024 - Present</code></summary>
 <br/>
 
-> 🇸🇦 Riyadh, Saudi Arabia | 🏗️ Building Digital Transformation Solutions
+> 📍 Riyadh, Saudi Arabia (Remote) | 🏗️ Building Digital Transformation Solutions
 
 | Project                         | Description                                                                   | Tech Stack                                     |
 | ------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -120,7 +120,7 @@
 <summary><b>🏢 Microsoft — Software Engineer (Bing Core UX)</b> <code>Jun 2022 - Nov 2024</code></summary>
 <br/>
 
-> 🇪🇬 Cairo, Egypt | 🇺🇸 Traveled to USA for onboarding
+> 📍 Cairo, Egypt | ✈️ Traveled to USA for onboarding
 
 | Impact Area       | Achievement                                         | Metrics                                       |
 | ----------------- | --------------------------------------------------- | --------------------------------------------- |
@@ -150,7 +150,7 @@
 <summary><b>🏢 Acute Business — Full Stack Developer</b> <code>Jan 2021 - May 2022</code></summary>
 <br/>
 
-> 🇪🇬 Egypt
+> 📍 Cairo, Egypt
 
 **Key Contributions:**
 
@@ -165,7 +165,7 @@
 <summary><b>🏢 Route Mobile — Frontend Developer</b> <code>2020</code></summary>
 <br/>
 
-> 🇪🇬 Egypt
+> 📍 Cairo, Egypt
 
 **Key Contributions:**
 
