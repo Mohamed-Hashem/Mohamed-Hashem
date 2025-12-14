@@ -118,7 +118,7 @@
 </details>
 
 <details open>
-<summary><b>🏢 Microsoft — Software Engineer (Bing Core UX)</b> <code>Jun 2022 - Nov 2024</code></summary>
+<summary><b>🏢 Microsoft — Software Engineer (Bing Core UX)</b> <code>June 2022 - Dec 2024</code></summary>
 <br/>
 
 > 📍 Cairo, Egypt | ✈️ Traveled to USA for onboarding
@@ -148,7 +148,7 @@
 </details>
 
 <details>
-<summary><b>🏢 Acute Business — Full Stack Developer</b> <code>Jan 2021 - May 2022</code></summary>
+<summary><b>🏢 Acute Business — Frontend Developer</b> <code>Dec 2021 - May 2022</code></summary>
 <br/>
 
 > 📍 Cairo, Egypt
@@ -163,7 +163,7 @@
 </details>
 
 <details>
-<summary><b>🏢 Route Mobile — Frontend Developer</b> <code>2020</code></summary>
+<summary><b>🏢 Route — Full Stack Developer</b> <code>Feb 2021</code></summary>
 <br/>
 
 > 📍 Cairo, Egypt
